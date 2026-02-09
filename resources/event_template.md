@@ -27,7 +27,7 @@ Do you have a talk idea but you're not quite sure how to bring it to life? Perha
 ​Attending this workshop is free, and you have no obligation to submit or speak or present if you don't want to.
 
 ### ​Takeaways
-​At the end of this workshop you'll have a talk title, abstract and description ready to submit to both PyCon AU 2026, and to present at Sydney Python Community later this year.
+​At the end of this workshop you'll have a talk title, abstract and description ready to submit to both PyCon AU 2026, and to present at [COMMUNITY NAME] later this year.
 
 ### ​About PyCon AU 2026
 ​This workshop is presented in partnership with PyCon AU 2026. Thank you for their sponsorship and time in making it happen. The PyCon AU 2026 Call For Proposals (CFP) is open now for talks on topics relevant to people who use Python! Submit before 29 March 2026 at [2026.pycon.org.au/cfp](https://2026.pycon.org.au/cfp).
