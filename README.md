@@ -8,9 +8,8 @@ This repository contains a collection of resources for running talk writing work
 
 - [`resources/event_template.md`](resources/event_template.md) - Template event description for promoting your workshop
 - `resources/promo_template_*.png` - Promotional image templates
-- Presentation slides for the workshop (coming soon)
-- Presenters notes to facilitate each step of the workshop (coming soon)
-- Train the trainer video, with guidance on how to facilitate a workshop (coming soon)
+- Presentation slides for the workshop
+- Presenters notes to facilitate each step of the workshop
 
 If you would like custom promotional graphics created for your event, please reach out to program@pycon.org.au ASAP.
 
