@@ -25,4 +25,4 @@ We'll do our best to be responsive within a day or two (during February & March)
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+Attribution-NonCommercial-ShareAlike 4.0 International - see [LICENSE](LICENSE) for details.
